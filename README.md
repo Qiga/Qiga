@@ -1,4 +1,7 @@
 ### Hi there 👋
+### [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qgam12123@gmail.com)](mailto:qgam12123@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qgam12123@gmail.com)](mailto:qgam12123@gmail.com)
+
 
 <!--
 **Qiga/Qiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
