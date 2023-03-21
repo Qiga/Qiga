@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qgam12123@gmail.com)](mailto:qgam12123@gmail.com)
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
