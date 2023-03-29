@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qgam12123@gmail.com)](mailto:qgam12123@gmail.com)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qgam12123)](https://solved.ac/qgam12123/)
 
 
 - 🔭 I’m currently working on ...
