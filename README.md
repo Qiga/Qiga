@@ -14,9 +14,6 @@
 
 Here are some ideas to get you started:
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qgam12123)](https://solved.ac/qgam12123/)
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
