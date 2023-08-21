@@ -1,8 +1,13 @@
-### 반갑습니다! 
-### Github에는 주로 학습한 내용이나 코딩 테스트에 대비한 문제풀이를 올립니다.
-### 문제풀이의 경우에는 저작권의 문제를 사전에 방지하기 위해 Private로 설정하고 있습니다.
-### (단, 출처의 표기를 명확하게 하고 있으며 Baekjoon Online Judge, Programmers의 규정을 준수하고 있기에 필요한 경우 Public으로 설정합니다)
-###
+### 가치를 탐구하는 Back-End 개발자 박정현입니다.
+
+<div>
+  인터넷의 발전에 따라서 우리는 다양한 자료들에 대해서 쉽게 접근할 수 있게 되었습니다. 나만의 추억들을 공유하는 것에서부터 전문적인 기술이나 지식에 대해서도 알 수 있게 되었죠.  
+</div>
+
+<div align = "center">
+### Stack 
+</div>
+
 
 ### =============== [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qgam12123@gmail.com)](mailto:qgam12123@gmail.com) =====================
 
