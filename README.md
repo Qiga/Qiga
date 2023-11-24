@@ -6,7 +6,18 @@
 </div>
   <br></br>
 <div>
-  DB : Oracle, MariaDB 서버를 활용한 관계형 DB를 직접 설계(모델링)해보고 
+==WEB==
+  <br></br>
+  FRONT : JS기반 라이브러리 React를 활용하여 페이지를 구성했으며, React Hook을 사용하여 생명주기를 관리하였습니다.
+  <br></br>
+  BACK : Spring Boot를 활용하여 MyBatis와 Lombok과 같은 Java기반의 라이브러리를 활용하여 프로젝트를 만들었습니다. 요청은 REST 규칙에 맞게 작성하고자 했습니다.
+  <br></br>
+
+==APP==
+  <br></br>
+  
+  <br></br>
+  DB : Oracle, MariaDB 서버를 활용한 관계형DB설계를 해보았으며 서브쿼리와 JOIN문을 활용한 쿼리를 작성해보았습니다. 개인정보보호를 위해 MD5와 같은 암호화 기법도 활용하고자 했습니다.
 </div>
 
 <div align = "center">
