@@ -14,8 +14,11 @@
   <br></br>
 
 ==APP==
-  <br></br>
-  
+  <br>Jetpack, camera navigation</br>
+  RecyclerView Linear Constraint 등 다양한 레이아웃
+  sealed, enum,
+  Databinding, viewmodel viewbinding
+  dialog alert fragment 
   <br></br>
   DB : Oracle, MariaDB 서버를 활용한 관계형DB설계를 해보았으며 서브쿼리와 JOIN문을 활용한 쿼리를 작성해보았습니다. 개인정보보호를 위해 MD5와 같은 암호화 기법도 활용하고자 했습니다.
 </div>
